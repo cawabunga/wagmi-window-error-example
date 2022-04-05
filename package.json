@@ -1,0 +1,11 @@
+{
+  "name": "wagmi-window-error-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emil Ibatullin <emil.ibatullin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.6.3",
+    "wagmi": "^0.2.24"
+  }
+}
